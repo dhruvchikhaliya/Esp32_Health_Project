@@ -1,4 +1,7 @@
 # ESP32_code
+pcb
+
+![IMG_20201226_154425](https://user-images.githubusercontent.com/39664194/175785520-1b503822-ef6e-409a-8bc2-b098d07b3c2b.jpg)
 
 Schematic
 
