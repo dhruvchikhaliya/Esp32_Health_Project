@@ -224,7 +224,6 @@ void Task1code( void * pvParameters )
     }
     if (state == 0 && beatAvg > 0)
     {
-      beatAvg = beatAvg;
 #if DEBUG
       Serial.print("Avg BPM=");
       Serial.println(beatAvg);
